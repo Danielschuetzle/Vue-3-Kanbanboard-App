@@ -1,4 +1,4 @@
-#📋 Vue 3 Kanban Board 🚀
+# 📋 Vue 3 Kanban Board 🚀
 
 Welcome to the Vue 3 Kanban Board project! This application allows you to manage and visualize your tasks using a Kanban board built with Vue.js 3 and the Composition API. 🎯
 
