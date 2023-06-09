@@ -1,4 +1,4 @@
-📋 Vue 3 Kanban Board 🚀
+#📋 Vue 3 Kanban Board 🚀
 
 Welcome to the Vue 3 Kanban Board project! This application allows you to manage and visualize your tasks using a Kanban board built with Vue.js 3 and the Composition API. 🎯
 
@@ -17,12 +17,13 @@ Prerequisites
 
 Make sure you have the following installed:
 
-    Node.js (version 14.x or above)
+   Node.js (version 14.x or above)
 
 ## Installation
- Clone this repository.
 
-    Open your browser and visit http://localhost:8080 to access the Vue 3 Kanban Board.
+Clone this repository.
+
+Open your browser and visit http://localhost:8080 to access the Vue 3 Kanban Board.
 
 ## 📁 Folder Structure
 
